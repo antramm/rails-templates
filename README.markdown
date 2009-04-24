@@ -14,3 +14,5 @@ Current library
 * facebook by Mark Daggett
 * sethbc by Seth Chandler
 * google\_app\_engine by David Calavera
+* datamatpper by ??
+* jrails by Jeff Larkin
